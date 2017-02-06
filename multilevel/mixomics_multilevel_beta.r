@@ -50,7 +50,7 @@ print(listArguments)
 cat('\n\nRunning mixOmics_multilevel.r\n');
 
 options(warn=-1);
-suppressPackageStartupMessages(library(mixOmics));
+##suppressPackageStartupMessages(library(mixOmics));
 
 
 ## constants
